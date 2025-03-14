@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText: 2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut
+# SPDX-FileCopyrightText: OEO Foundry website <https://github.com/OEOFoundry/website>
+# SPDX-License-Identifier: CC0-1.0
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+authors:
+  - family-names: "Hülk"
+    given-names: "Ludwig"
+    alias: "Ludee"
+    affiliation: "Reiner Lemoine Institut"
+    orcid: "https://orcid.org/0000-0003-4655-2321"
+  - family-names: "Stappel"
+    given-names: "Mirjam"
+    alias: "stap-m"
+    affiliation: "Osnabrück University"
+    orcid: "https://orcid.org/0000-0003-3722-5564"
+  - family-names: "Wein"
+    given-names: "Amanda"
+    alias: "amanda-wein"
+    affiliation: "OFFIS"
+    orcid: "https://orcid.org/0009-0009-2960-3474"
+title: "OEO Foundry"
+type: software
+license: MIT
+version: 0.0.0
+doi: null
+date-released: 2025-03-14
+url: "https://github.com/OEOFoundry/website"
