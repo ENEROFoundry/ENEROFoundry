@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 OEOFoundry
+Copyright (c) 2025 OEO Foundry
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
