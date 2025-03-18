@@ -71,7 +71,7 @@ License and Citation
     :target: https://api.reuse.software/info/github.com/OEOFoundry/website
     :alt: REUSE
 
-.. |badge_documentation| image:: https://img.shields.io/github/actions/workflow/status/OEOFoundry/website/documentation.yml?branch=develop&label=documentation
+.. |badge_documentation| image:: https://img.shields.io/github/actions/workflow/status/OEOFoundry/website/documentation.yml?branch=production&label=documentation
     :target: https://oeofoundry.github.io/website/
     :alt: Documentation
 
