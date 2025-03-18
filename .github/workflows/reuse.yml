@@ -1,0 +1,15 @@
+# SPDX-FileCopyrightText: 2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut
+# SPDX-FileCopyrightText: OEO Foundry website <https://github.com/OEOFoundry/website>
+# SPDX-License-Identifier: MIT
+
+name: 📝 REUSE Compliance Check
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: REUSE compliance check
+        uses: fsfe/reuse-action@v4

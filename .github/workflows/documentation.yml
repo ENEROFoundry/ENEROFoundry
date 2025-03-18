@@ -1,0 +1,28 @@
+# SPDX-FileCopyrightText: 2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut
+# SPDX-FileCopyrightText: OEO Foundry website <https://github.com/OEOFoundry/website>
+# SPDX-License-Identifier: MIT
+
+name: 📝 Documentation (production branch)
+
+on:
+  push:
+    branches:
+      - production
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - uses: actions/cache@v3
+        with:
+          key: ${{ github.ref }}
+          path: .cache
+      - run: pip install --upgrade -r requirements.txt
+      - run: mkdocs gh-deploy --force
