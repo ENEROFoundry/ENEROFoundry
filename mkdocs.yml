@@ -74,3 +74,4 @@ extra_css:
 nav:
   - Home: index.md
   - Principles: principles.md
+  - Community: community.md
