@@ -44,10 +44,11 @@ The ontology must be built upon the Basic Formal Ontology (BFO).
 The ontology must have a unique name, a distinct prefix, and a permanent identifier.
 
 ## Specification
-- The ontology name should fit the scope
-- The prefix should be 
+- The ontology name must reflect its scope
+- The prefix should be concise and derived from the ontology name
 
-# 4 Versioning
+
+# 5 Versioning
 
 ## Definition
 The ontology provider has documented procedures for versioning the ontology, and different versions of ontology are marked, stored, and officially released.
