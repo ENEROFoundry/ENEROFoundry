@@ -6,7 +6,7 @@ Our commitment to FAIR and open science drives the development of reusable knowl
 # 1 Open
 
 ## Definition
-The ontology must be **freely accessible** and usable by all under a **suitable open license**.
+The ontology must be freely accessible and usable by all under a suitable open license.
 
 ## Specification
 - The open license must part of the [SPDX License List](https://spdx.org/licenses/)
@@ -29,11 +29,23 @@ The ontology is made available in a common formal language in an accepted concre
 - The filename should be the ontology prefix: `oeo.owl`
 
 
-# 3 Identifier Space
+# 3 Upper Ontology Structure
 
 ## Definition
-Each ontology MUST have a unique IRI in the form of an  OEO Foundry permanent URL (PURL).
+The ontology must be built upon the Basic Formal Ontology (BFO).
 
+## Specification
+- The ontology must be based on BFO
+
+
+# 4 Identifier Space
+
+## Definition
+The ontology must have a unique name, a distinct prefix, and a permanent identifier.
+
+## Specification
+- The ontology name should fit the scope
+- The prefix should be 
 
 # 4 Versioning
 
