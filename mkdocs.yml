@@ -73,7 +73,7 @@ extra_css:
 # Navigation
 nav:
   - Home: index.md
-  - Principles: principles.md
   - Community: community.md
+  - Principles: principles.md
   - Ontologies: ontologies.md
   - Contact: contact.md
