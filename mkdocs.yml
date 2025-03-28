@@ -78,5 +78,13 @@ nav:
       - Overview: principles.md
       - 1. Open: principles/1_open.md
       - 2. Common Format: principles/2_format.md
+      - 3. Upper Ontology Structure: principles/3_bfo.md
+      - 4. Identifier Space: principles/4_id.md
+      - 5. Versioning: principles/5_version.md
+      - 6. Scope: principles/6_scope.md
+      - 7. Naming Conventions: principles/7_naming.md
+      - 8. Textual Definitions: principles/8_definitions.md
+      - 9. Documentation: principles/9_documentation.md
+      - 10. Commitment To Collaboration: principles/10_collaboration.md
   - Ontologies: ontologies.md
   - Contact: contact.md

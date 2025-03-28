@@ -1,10 +1,16 @@
+---
+hide:
+  - footer
+  - toc
+---
+
 # Principles - Overview
 
 OEO Foundry follows a shared set of principles to ensure that ontologies are logically well-formed, scientifically accurate, and interoperable.
 Our commitment to FAIR and open science drives the development of reusable knowledge structures for the energy domain.
 
-- 1. **Open** - The ontology must be freely accessible and usable by all under a suitable open license.
-- 2. **Common Format** - The ontology is made available in a common formal language in an accepted concrete syntax.
+- **1. Open** - The ontology must be freely accessible and usable by all under a suitable open license.
+- **2. Common Format** - The ontology is made available in a common formal language in an accepted concrete syntax.
 
 ## Specification
 - The ontology must be provided as an OWL file
