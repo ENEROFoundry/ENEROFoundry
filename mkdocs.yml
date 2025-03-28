@@ -74,6 +74,8 @@ extra_css:
 nav:
   - Home: index.md
   - Community: community.md
-  - Principles: principles.md
+  - Principles:
+      - Overview: principles.md
+      - 1. Open: principles/1_open.md
   - Ontologies: ontologies.md
   - Contact: contact.md
