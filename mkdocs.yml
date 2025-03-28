@@ -77,5 +77,6 @@ nav:
   - Principles:
       - Overview: principles.md
       - 1. Open: principles/1_open.md
+      - 2. Common Format: principles/2_format.md
   - Ontologies: ontologies.md
   - Contact: contact.md

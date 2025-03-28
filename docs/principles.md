@@ -1,25 +1,10 @@
-# Principles
+# Principles - Overview
 
 OEO Foundry follows a shared set of principles to ensure that ontologies are logically well-formed, scientifically accurate, and interoperable.
 Our commitment to FAIR and open science drives the development of reusable knowledge structures for the energy domain.
 
-# 1. Open
-
-## Definition
-The ontology must be freely accessible and usable by all under a suitable open license.
-
-## Specification
-- The open license must part of the [SPDX License List](https://spdx.org/licenses/)
-- The open license must follow the Open Source Definition and [OSI approved](https://opensource.org/licenses)
-
-## Recommendation
-- A dual licensing with the [MIT License](https://opensource.org/license/mit) and [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/): `MIT OR CC0-1.0`
-
-
-# 2. Common Format
-
-## Definition
-The ontology is made available in a common formal language in an accepted concrete syntax.
+- 1. **Open** - The ontology must be freely accessible and usable by all under a suitable open license.
+- 2. **Common Format** - The ontology is made available in a common formal language in an accepted concrete syntax.
 
 ## Specification
 - The ontology must be provided as an OWL file
