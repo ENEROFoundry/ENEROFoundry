@@ -6,15 +6,15 @@ Describe the findings of the discussion in the issue or meeting.
 
 ### Added
 
-- Add a new feature [(#)](https://github.com/OEOFoundry/website/pull/)
+- Add a new feature [(#)](https://github.com/OEOFoundry/OEOFoundry/pull/)
 
 ### Changed
 
-- Update a definition [(#)](https://github.com/OEOFoundry/website/pull/)
+- Update a definition [(#)](https://github.com/OEOFoundry/OEOFoundry/pull/)
 
 ### Removed
 
-- Remove a broken link [(#)](https://github.com/OEOFoundry/website/pull/)
+- Remove a broken link [(#)](https://github.com/OEOFoundry/OEOFoundry/pull/)
 
 ## Workflow checklist
 
@@ -24,12 +24,12 @@ Closes # / Part of #
 
 ### PR-Assignee
 
-- [ ] 🐙 Follow the workflow in [CONTRIBUTING.md](https://github.com/OEOFoundry/website/blob/production/CONTRIBUTING.md)
-- [ ] 📝 Update the [CHANGELOG.md](https://github.com/OEOFoundry/website/blob/develop/CHANGELOG.md)
+- [ ] 🐙 Follow the workflow in [CONTRIBUTING.md](https://github.com/OEOFoundry/OEOFoundry/blob/production/CONTRIBUTING.md)
+- [ ] 📝 Update the [CHANGELOG.md](https://github.com/OEOFoundry/OEOFoundry/blob/develop/CHANGELOG.md)
 - [ ] 📙 Update the documentation
 - [ ] 🐙 Assign a reviewer to the PR
 
 ### Reviewer
 
-- [ ] 🐙 Follow the [Reviewer Guidelines](https://github.com/OEOFoundry/website/blob/production/CONTRIBUTING.md#40--let-someone-else-review-your-pr)
+- [ ] 🐙 Follow the [Reviewer Guidelines](https://github.com/OEOFoundry/OEOFoundry/blob/production/CONTRIBUTING.md#40--let-someone-else-review-your-pr)
 - [ ] 🐙 Provided feedback and show sufficient appreciation for the work done
