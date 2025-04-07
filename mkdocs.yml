@@ -11,7 +11,7 @@ site_description: Website of the OEO Foundry
 repo_name: OEOFoundry/website
 repo_url: https://github.com/OEOFoundry/OEOFoundry
 docs_dir: docs
-copyright: OEO Foundry &copy; Reiner Lemoine Institut &copy; Universität Osnabrück &copy; OFFIS – Institut für Informatik; Carl von Ossietzky Universität Oldenburg | CC-BY-4.0
+copyright: OEO Foundry &copy; Reiner Lemoine Institut &copy; Universität Osnabrück &copy; OFFIS Institut für Informatik; &copy; Carl von Ossietzky Universität Oldenburg | CC-BY-4.0
 
 # Configuration
 theme:
@@ -70,7 +70,7 @@ extra_css:
 
 # Navigation
 nav:
-  - Home: index.md
+  - index.md
   - Community: community.md
   - Principles:
       - Overview: principles.md

@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-![OEO Foundry Logo](img/Logo_OEOFoundry.png){ align=left }
+![OEO Foundry Logo](img/Logo_OEOFoundry.png)
 
 ## Open Energy Ontologies Foundry
 
