@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Community
 
 The OEO Foundry was established as part of the [NFDI4Energy](https://nfdi4energy.uol.de/) project.<br>

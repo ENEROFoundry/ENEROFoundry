@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Ontologies
 
 We are currently evaluating energy-related ontologies for compliance with its principles.<br>
