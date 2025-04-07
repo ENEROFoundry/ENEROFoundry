@@ -9,9 +9,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg1026"
-   width="134.99156mm"
+   width="124.99157mm"
    height="71.239906mm"
-   viewBox="0 0 510.20434 269.2532"
+   viewBox="0 0 472.40909 269.2532"
    sodipodi:docname="Logo_UOS.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
@@ -30,7 +30,7 @@
      id="defs1030" />
   <sodipodi:namedview
      fit-margin-bottom="20"
-     fit-margin-right="40"
+     fit-margin-right="30"
      fit-margin-left="0"
      fit-margin-top="20"
      id="namedview1028"
@@ -44,7 +44,7 @@
      showgrid="false"
      inkscape:zoom="2.0000001"
      inkscape:cx="261.61067"
-     inkscape:cy="95.145295"
+     inkscape:cy="95.145294"
      inkscape:window-width="2880"
      inkscape:window-height="1526"
      inkscape:window-x="-11"
@@ -57,7 +57,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g1032"
-     transform="translate(-158.43668,-65.692143)">
+     transform="translate(-158.43668,-65.692144)">
     <g
        id="g50"
        transform="matrix(0.15595885,0,0,0.15595885,158.44119,141.28533)">

@@ -9,13 +9,13 @@ The OEO Foundry was established as part of the [NFDI4Energy](https://nfdi4energy
 
 ## Partner
 
-<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/partner/Logo_OFFIS.svg" alt="OFFIS" width="300"/>
-<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/partner/Logo_UOL.svg" alt="UOL" width="300"/>
-<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/partner/Logo_UOS.svg" alt="UOS" width="300"/>
-<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/partner/Logo_RLI.svg" alt="RLI" width="300"/>
+<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/partner/Logo_OFFIS.svg" alt="OFFIS" width="250"/>
+<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/partner/Logo_UOL.svg" alt="UOL" width="250"/>
+<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/partner/Logo_UOS.svg" alt="UOS" width="250"/>
+<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/partner/Logo_RLI.svg" alt="RLI" width="250"/>
 
 ## Funding
 
-<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/funding/nfdi4energy_logo.svg" alt="NFDI4Energy" width="300"/>
-<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/funding/nfdi_rgb_Wortmarke_Zusatz_quer.png" alt="NFDI" width="400"/>
-<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/funding/dfg_logo_schriftzug_blau_foerderung_en.png" alt="DFG" width="400"/>
+<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/funding/nfdi4energy_logo.svg" alt="NFDI4Energy" width="250"/>
+<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/funding/nfdi_rgb_Wortmarke_Zusatz_quer.png" alt="NFDI" width="350"/>
+<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/funding/dfg_logo_schriftzug_blau_foerderung_en.png" alt="DFG" width="350"/>
