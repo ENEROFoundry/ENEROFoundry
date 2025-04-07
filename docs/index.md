@@ -5,8 +5,8 @@ hide:
   - toc
 ---
 
+<img src="img/Logo_OEOFoundry.png" alt="OEO Foundry Logo" width="300"/>
 
-![OEO Foundry Logo](img/Logo_OEOFoundry.png)
 
 # Open Energy Ontologies Foundry
 

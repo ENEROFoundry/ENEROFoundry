@@ -39,9 +39,9 @@ Introduction
 
 Documentation
 =============
-| The website is created with Markdown using `MkDocs <https://www.mkdocs.org/>`_ and `mike <https://github.com/jimporter/mike>`_.
+| The website is created with Markdown using `MkDocs <https://www.mkdocs.org/>`_.
 | All files are stored in the ``docs`` folder of the repository.
-| A **GitHub Actions** deploys the ``develop`` branch on a **GitHub Page**.
+| A **GitHub Actions** deploys the ``production`` branch on a **GitHub Page**.
 | The documentation page is: `oeofoundry.github.io/OEOFoundry/ <https://oeofoundry.github.io/OEOFoundry/>`_
 
 Collaboration
