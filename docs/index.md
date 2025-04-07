@@ -2,7 +2,6 @@
 hide:
   - navigation
   - footer
-  - toc
 ---
 
 <img src="img/Logo_OEOFoundry.png" alt="OEO Foundry Logo" width="800"/>
