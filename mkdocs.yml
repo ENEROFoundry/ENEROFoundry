@@ -14,7 +14,6 @@ docs_dir: docs
 copyright: OEO Foundry &copy; Reiner Lemoine Institut &copy; Universität Osnabrück &copy; OFFIS Institut für Informatik &copy; Carl von Ossietzky Universität Oldenburg | CC-BY-4.0
 
 # Configuration
-use_directory_urls: false
 theme:
   name: material
   logo: img/OpenEnergyFamily_Logo_OEOFoundry.png
