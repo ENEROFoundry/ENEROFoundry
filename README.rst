@@ -8,11 +8,11 @@
     :target: https://github.com/OEOFoundry/OEOFoundry
     :alt: Logo OEO Foundry
 
-===========
-OEO Foundry
-===========
+==============================
+Open Energy Ontologies Foundry
+==============================
 
-**Website for the OEO Foundry.**
+**Organisation and website for the OEO Foundry.**
 
 .. list-table::
    :widths: auto
