@@ -15,6 +15,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- REUSE
+- Documentation with MkDocs
+- Logo
+- Partner Logos
+- Docs/Home
+- Docs/Community
+- Docs/Principles
+- Docs/Ontologies
+- Docs/Contact
 
 ### Changed
 
