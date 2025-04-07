@@ -3,10 +3,10 @@
   SPDX-FileCopyrightText: OEO Foundry <https://github.com/OEOFoundry/OEOFoundry>
   SPDX-License-Identifier: MIT
 
-.. figure:: https://avatars.githubusercontent.com/u/203261022?s=200&v=4
+.. figure:: https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/Logo_OEOFoundry.svg
     :align: left
     :target: https://github.com/OEOFoundry/OEOFoundry
-    :alt: Repo Logo
+    :alt: Logo OEO Foundry
 
 ===========
 OEO Foundry
