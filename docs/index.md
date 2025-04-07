@@ -4,7 +4,9 @@ hide:
   - toc
 ---
 
-# Open Energy Ontologies Foundry
+![OEO Foundry Logo](img/Logo_OEOFoundry.png){ align=left }
+
+## Open Energy Ontologies Foundry
 
 The OEO Foundry is an initiative for developing interoperable ontologies in the energy domain.<br>
 It follows shared principles to ensure high-quality and FAIR (Findable, Accessible, Interoperable, and Reusable) ontologies.<br>
