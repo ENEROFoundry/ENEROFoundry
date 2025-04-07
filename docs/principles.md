@@ -19,3 +19,9 @@ Our commitment to FAIR and open science drives the development of reusable knowl
 - **8. Textual Definitions** - The ontology has textual definitions for the majority of its classes and for top level terms in particular.
 - **9. Documentation** - The owners of the ontology should strive to provide as much documentation as possible.
 - **10. Commitment To Collaboration** - OEO Foundry ontology development, in common with many other standards-oriented scientific activities, should be carried out in a collaborative fashion.
+
+## Discussion
+
+The definitions and details of the principles are currently being discussed in the 
+[GitHub Discussions](https://github.com/OEOFoundry/OEOFoundry/discussions/) of the OEO Foundry.<br>
+We welcome your feedback and contributions.
