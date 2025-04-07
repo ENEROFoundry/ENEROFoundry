@@ -1,5 +1,5 @@
 # SPDX-FileCopyrightText: 2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut
-# SPDX-FileCopyrightText: OEO Foundry website <https://github.com/OEOFoundry/website>
+# SPDX-FileCopyrightText: OEO Foundry <https://github.com/OEOFoundry/OEOFoundry>
 # SPDX-License-Identifier: MIT
 
 # Project
@@ -11,7 +11,7 @@ site_description: Website of the OEO Foundry
 repo_name: OEOFoundry
 repo_url: https://github.com/OEOFoundry/OEOFoundry
 docs_dir: docs
-copyright: OEO Foundry &copy; Reiner Lemoine Institut &copy; Universität Osnabrück &copy; OFFIS Institut für Informatik; &copy; Carl von Ossietzky Universität Oldenburg | CC-BY-4.0
+copyright: OEO Foundry &copy; Reiner Lemoine Institut &copy; Universität Osnabrück &copy; OFFIS Institut für Informatik &copy; Carl von Ossietzky Universität Oldenburg | CC-BY-4.0
 
 # Configuration
 theme:

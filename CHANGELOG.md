@@ -1,6 +1,6 @@
 <!--
 SPDX-FileCopyrightText: 2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut
-SPDX-FileCopyrightText: OEO Foundry website <https://github.com/OEOFoundry/website>
+SPDX-FileCopyrightText: OEO Foundry <https://github.com/OEOFoundry/OEOFoundry>
 SPDX-License-Identifier: MIT
 -->
 
