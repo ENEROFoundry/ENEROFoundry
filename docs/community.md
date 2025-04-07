@@ -4,13 +4,13 @@ The OEO Foundry was established as part of the [NFDI4Energy](https://nfdi4energy
 
 ## Partner
 
-<img src="img/partner/Logo_OFFIS.svg" alt="OFFIS" width="300"/>
-<img src="img/partner/Logo_UOL.svg" alt="UOL" width="300"/>
-<img src="img/partner/Logo_UOS.svg" alt="UOS" width="300"/>
-<img src="img/partner/Logo_RLI.svg" alt="RLI" width="300"/>
+<img src="https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/img/partner/Logo_OFFIS.svg" alt="OFFIS" width="300"/>
+<img src="https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/img/partner/Logo_UOL.svg" alt="UOL" width="300"/>
+<img src="https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/img/partner/Logo_UOS.svg" alt="UOS" width="300"/>
+<img src="https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/img/partner/Logo_RLI.svg" alt="RLI" width="300"/>
 
 ## Funding
 
-<img src="img/funding/nfdi4energy_logo.svg" alt="NFDI4Energy" width="300"/>
-<img src="img/funding/nfdi_rgb_Wortmarke_Zusatz_quer.png" alt="NFDI" width="400"/>
-<img src="img/funding/dfg_logo_schriftzug_blau_foerderung_en.png" alt="DFG" width="400"/>
+<img src="https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/img/funding/nfdi4energy_logo.svg" alt="NFDI4Energy" width="300"/>
+<img src="https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/img/funding/nfdi_rgb_Wortmarke_Zusatz_quer.png" alt="NFDI" width="400"/>
+<img src="https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/img/funding/dfg_logo_schriftzug_blau_foerderung_en.png" alt="DFG" width="400"/>
