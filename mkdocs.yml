@@ -4,14 +4,14 @@
 
 # Project
 site_name: OEO Foundry
-site_url: https://github.com/OEOFoundry/website/
+site_url: https://github.com/OEOFoundry/OEOFoundry
 site_description: Website of the OEO Foundry
 
 # Repository
 repo_name: OEOFoundry/website
-repo_url: https://github.com/OEOFoundry/website
+repo_url: https://github.com/OEOFoundry/OEOFoundry
 docs_dir: docs
-copyright: OEO Foundry &copy; Reiner Lemoine Institut &copy; Universität Osnabrück &copy; OFFIS | CC-BY-4.0
+copyright: OEO Foundry &copy; Reiner Lemoine Institut &copy; Universität Osnabrück &copy; OFFIS – Institut für Informatik; Carl von Ossietzky Universität Oldenburg | CC-BY-4.0
 
 # Configuration
 theme:
@@ -63,9 +63,7 @@ extra:
     provider: mike
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/OEOFoundry/website
-    - icon: fontawesome/brands/mastodon
-      link: https://mastodon.social/@RL_Institut@wisskomm.social
+      link: https://github.com/OEOFoundry/OEOFoundry
 
 extra_css:
   - extra.css
