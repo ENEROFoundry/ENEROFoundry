@@ -58,7 +58,7 @@ Contributors:
 License and Citation
 ====================
 | The code of this repository is licensed under the **MIT License** (MIT).
-| Authorship and license for each file is documented using `REUSE <https://api.reuse.software/info/github.com/OEOFoundry/OEOFoundry>`_.
+| Authorship and license for each file are documented using `REUSE <https://api.reuse.software/info/github.com/OEOFoundry/OEOFoundry>`_ specification.
 | See `LICENSE.txt <https://github.com/OEOFoundry/OEOFoundry/blob/production/LICENSE.txt>`_ for rights and obligations.
 | See the *Cite this repository* function or `CITATION.cff <https://github.com/OEOFoundry/OEOFoundry/blob/production/CITATION.cff>`_ for citation of this repository.
 | Copyright: `OEO Foundry <https://github.com/OEOFoundry/OEOFoundry/>`_ © `Reiner Lemoine Institut <https://reiner-lemoine-institut.de/>`_ | `MIT <LICENSE.txt>`_
