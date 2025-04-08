@@ -9,7 +9,7 @@ The OEO Foundry was established as part of the [NFDI4Energy](https://nfdi4energy
 
 ## Partner
 
-<img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/partner/Logo_OFFIS.svg" alt="OFFIS" width="250"/>
+<img src="img/partner/Logo_OFFIS.svg" alt="OFFIS" width="250"/>
 <img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/partner/Logo_UOL.svg" alt="UOL" width="250"/>
 <img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/partner/Logo_UOS.svg" alt="UOS" width="250"/>
 <img src="https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/partner/Logo_RLI.svg" alt="RLI" width="250"/>

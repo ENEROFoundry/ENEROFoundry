@@ -44,13 +44,15 @@ theme:
 
 # extensions
 markdown_extensions:
-  - toc:
-      permalink: "#"
   - admonition
+  - attr_list
+  - md_in_html
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.highlight:
       use_pygments: true
+  - toc:
+      permalink: "#"
 
 plugins:
 - search:
