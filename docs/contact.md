@@ -11,7 +11,6 @@ please contact us at:
 📧 [oeo-foundry (at) lists.rl-institut.de](mailto:oeo-foundry(at)lists.rl-institut.de)
 
 
-oeo-info-join (at) lists.rl-institut.de
 
 ## Mailing List
 
@@ -20,7 +19,7 @@ You're welcome to contact and join our public mailing list:<br>
 📧 [oeo-info (at) lists.rl-institut.de](mailto:oeo-info(at)lists.rl-institut.de)
 
 !!! Info "Sign up by sending an email to:"
-    📧 oeo-info-join (at) lists.rl-institut.de
+    📧 [oeo-info-join (at) lists.rl-institut.de](mailto:oeo-info-join(at)lists.rl-institut.de)
 
 
 ## GitHub Discussions
