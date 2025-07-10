@@ -34,6 +34,6 @@ Example: <br>
 
 ### Ontology reuse: 
 Any ontology reusing individual terms from another ontology should
--	re-use the original terms IRI and 
+-	reuse the original terms' IRI and 
 -	use an `IAO:imported from` annotation http://purl.obolibrary.org/obo/IAO_0000412 on each imported term 
 -	to link back to the group (i.e. ontology) maintaining it, where more information would be available about the license include any annotations for term or definition editors from the original ontology
