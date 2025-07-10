@@ -32,7 +32,7 @@ OEO Foundry ontologies MUST specify the reuse constraints using the `dcterms:lic
 Example: <br>
 `<dcterms:license rdf:datatype="&xsd;anyURI">[http://opensource.org/licenses/MIT</dcterms:license](http://opensource.org/licenses/MIT%3c/dcterms:license)>`
 
-### Ontology re-use: 
+### Ontology reuse: 
 Any ontology reusing individual terms from another ontology should
 -	re-use the original terms IRI and 
 -	use an `IAO:imported from` annotation http://purl.obolibrary.org/obo/IAO_0000412 on each imported term 
