@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Docs/Contact
 
 ### Changed
+- Update principle 1 open [(#17)](https://github.com/OEOFoundry/OEOFoundry/pull/17)
 
 ### Removed
 
