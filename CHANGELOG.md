@@ -27,7 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Update principle 1 open [(#17)](https://github.com/OEOFoundry/OEOFoundry/pull/17)
-
+- Update principle on textual definitions (no. 8) [(#22)](https://github.com/OEOFoundry/OEOFoundry/pull/22)
 ### Removed
 
 
