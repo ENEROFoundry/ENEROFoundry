@@ -29,6 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update principle on openness (no. 1) [(#17)](https://github.com/OEOFoundry/OEOFoundry/pull/17)
 - Update principle on common format (no. 2) [(#20)](https://github.com/OEOFoundry/OEOFoundry/pull/20)
 - Update principle on textual definitions (no. 8) [(#22)](https://github.com/OEOFoundry/OEOFoundry/pull/22)
+- Update principle on versioning (no. 5) [(#24)](https://github.com/OEOFoundry/OEOFoundry/pull/24)
 
 ### Removed
 
