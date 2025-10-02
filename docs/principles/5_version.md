@@ -1,4 +1,4 @@
-# 5. Versioning
+# Versioning
 
 ## Description and Purpose
 Ontologies are expected to change during their lifecycle and users need to be aware that changes have occurred. However, it is assumed that changes to ontologies are made rather slowly. Versioning is therefore required to help distinguish which and when changes to an ontology have been made.
