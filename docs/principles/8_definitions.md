@@ -1,4 +1,4 @@
-# 8. Textual Definitions
+# Textual Definitions
 
 ## Summary
 * All classes MUST and all relations SHOULD have a textual definition
