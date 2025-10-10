@@ -79,6 +79,7 @@ nav:
       - Open: principles/1_open.md
       - Common Format: principles/2_format.md
       - Textual Definitions: principles/8_definitions.md
+      - Identifier and Naming Conventions: principles/7_naming.md
       - Versioning: principles/5_version.md
   - Ontologies: ontologies.md
   - Contact: contact.md
