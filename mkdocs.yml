@@ -76,7 +76,7 @@ nav:
   - Community: community.md
   - Principles:
       - Overview: principles.md
-      - Open: principles/1_open.md
+      - Openness: principles/1_open.md
       - Common Format: principles/2_format.md
       - Textual Definitions: principles/8_definitions.md
       - Identifier and Naming Conventions: principles/7_naming.md
