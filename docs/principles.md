@@ -14,6 +14,7 @@ We consider the [OBO principles](https://obofoundry.org/principles/fp-000-summar
 - [Openness](https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/principles/1_open.md)
 - [Common Format](https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/principles/2_format.md)
 - [Textual Definitions](https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/principles/8_definitions.md)
+- [Identifier and Naming Conventions](https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/principles/7_naming.md)
 - [Versioning](https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/principles/5_version.md)
 
 On each principle page, several informational sections are presented:
