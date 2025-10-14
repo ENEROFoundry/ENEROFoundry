@@ -4,7 +4,7 @@
 Definitions are required for ontology classes, preferably in [Aristotelian format](https://doi.org/10.7551/mitpress/9780262527811.003.0004). No two entities can have the same definition, and no entity can have multiple definitions.
 
 ## Purpose
-OEOF ontologies are intended to provide a consensus view of a domain (to the extent possible) and the notions and terms used therein. As such they should be able to be used as a glossary for their domain.
+OEO Foundry ontologies are intended to provide a consensus view of a domain (to the extent possible) and the notions and terms used therein. As such they should be able to be used as a glossary for their domain.
 
 Each entity provides a human-readable understanding about what is a member of the associated class. The textual definitions are, optimally, in concordance with associated machine-readable logical definitions.
 
