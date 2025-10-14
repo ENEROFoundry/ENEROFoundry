@@ -7,7 +7,7 @@ A versioning workflow that publishes newer ontology versions, documents changes 
 Ontologies are expected to change during their lifecycle and users need to be aware that changes have occurred. However, it is assumed that changes to ontologies are made rather slowly. Versioning is therefore required to help distinguish which and when changes to an ontology have been made.
 
 ## Implementation
-- OEOF ontologies MUST use versioning workflows that publish newer ontology versions and document:
+- OEO Foundry ontologies MUST use versioning workflows that publish newer ontology versions and document:
   - changes made in each version
   - dates of version publication
   - version numbers
