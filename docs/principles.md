@@ -27,6 +27,7 @@ On each principle page, several informational sections are presented:
 >
 > ### Implementation
 > A list of implementation guidelines for the principle. The following terminology is used:
+>
 > - MUST or MUST NOT: a requirement for an ontology to comply with this principle.
 > - SHOULD or SHOULD NOT: a recommendation that is not necessary for principle complieance, but is suggested as a good ontology development practice.
 > - MAY: an option for ontology developers to select what works best for their ontology.
