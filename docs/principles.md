@@ -11,11 +11,11 @@ Our commitment to FAIR and open science drives the development of reusable knowl
 We consider the [OBO principles](https://obofoundry.org/principles/fp-000-summary.html) and the [Technical principles from IOF](https://oagi.org/pages/technical-principles).
 
 ## Principles
-- [Openness](https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/principles/1_open.md)
-- [Common Format](https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/principles/2_format.md)
-- [Textual Definitions](https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/principles/8_definitions.md)
-- [Identifier and Naming Conventions](https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/principles/7_naming.md)
-- [Versioning](https://github.com/OEOFoundry/OEOFoundry/blob/production/docs/principles/5_version.md)
+- [Openness](principles/1_open.md)
+- [Common Format](principles/2_format.md)
+- [Textual Definitions](principles/8_definitions.md)
+- [Identifier and Naming Conventions](principles/7_naming.md)
+- [Versioning](principles/5_version.md)
 
 On each principle page, several informational sections are presented:
 
