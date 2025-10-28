@@ -28,6 +28,7 @@ A consistent identifier format allows users to understand where a class term is 
 ## Examples
 ### Labels and alternative labels/synonyms
 Foundry-compliant annotation property usage for a "research and development grant" ontology entity:
+
 - `rdfs:label` "research and development grant"
 - `IAO_0000118` "research & development grant"
 - `IAO_0000118` "R&D grant"
