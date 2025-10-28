@@ -8,9 +8,9 @@ Ontologies are expected to change during their lifecycle and users need to be aw
 
 ## Implementation
 - OEO Foundry ontologies MUST use versioning workflows that publish newer ontology versions and document:
-  - changes made in each version
-  - dates of version publication
-  - version numbers
+    - changes made in each version
+    - dates of version publication
+    - version numbers
 - Documentation MUST be available for the versioning workflow of an OEOF ontology.
 - Developers MAY use either a semantic versioning format or a calendaric versioning format. Information on the differences between these two format options can be found online, e.g. https://glinteco.com/en/post/understanding-semver-vs-calver-making-the-right-choice-for-your-project/.
 - The annotation `owl:versionInfo` MUST be used to identify the version number of the ontology.
