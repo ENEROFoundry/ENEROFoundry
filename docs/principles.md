@@ -16,7 +16,7 @@ We consider the [OBO principles](https://obofoundry.org/principles/fp-000-summar
 - [Textual Definitions](principles/8_definitions.md)
 - [Identifier and Naming Conventions](principles/7_naming.md)
 - [Versioning](principles/5_version.md)
-- [Foundational ontology](principles/3_bfo.md)
+- [Foundational Ontology](principles/3_bfo.md)
 
 On each principle page, several informational sections are presented:
 
