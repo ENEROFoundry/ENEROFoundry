@@ -82,5 +82,7 @@ nav:
       - Identifier and Naming Conventions: principles/7_naming.md
       - Versioning: principles/5_version.md
       - Foundational Ontology: principles/3_bfo.md
+      - Scope: principles/6_scope.md
+
   - Ontologies: ontologies.md
   - Contact: contact.md
