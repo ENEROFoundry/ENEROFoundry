@@ -81,5 +81,6 @@ nav:
       - Textual Definitions: principles/8_definitions.md
       - Identifier and Naming Conventions: principles/7_naming.md
       - Versioning: principles/5_version.md
+      - Scope: principles/6_scope.md
   - Ontologies: ontologies.md
   - Contact: contact.md
