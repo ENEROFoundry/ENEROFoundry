@@ -1,4 +1,4 @@
-# Use of a foundational ontology
+# Use of a Foundational Ontology
 
 ## Summary
 We require either the use of BFO as a foundational ontology or a mapping to BFO's main structure.
