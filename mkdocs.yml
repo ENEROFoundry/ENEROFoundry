@@ -81,6 +81,6 @@ nav:
       - Textual Definitions: principles/8_definitions.md
       - Identifier and Naming Conventions: principles/7_naming.md
       - Versioning: principles/5_version.md
-      - Foundational ontology: principles/3_bfo.md
+      - Foundational Ontology: principles/3_bfo.md
   - Ontologies: ontologies.md
   - Contact: contact.md
