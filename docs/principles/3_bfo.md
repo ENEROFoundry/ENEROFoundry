@@ -21,4 +21,4 @@ Use of a foundational ontology provides the basis for ontological consistency an
     - SKOS: https://www.w3.org/2004/02/skos/
 
 ### Examples
-- An example for a BFO mapping can be found here: https://github.com/BFO-Mappings/PROV-to-BFO
+- An example for a BFO mapping can be found here: [https://github.com/BFO-Mappings/PROV-to-BFO](https://github.com/BFO-Mappings/PROV-to-BFO)
