@@ -18,7 +18,7 @@ We consider the [OBO principles](https://obofoundry.org/principles/fp-000-summar
 - [Versioning](principles/5_version.md)
 - [Foundational Ontology](principles/3_bfo.md)
 - [Scope](principles/6_scope.md)
-  
+- [Documentation](principles/9_documentation.md)
 
 On each principle page, several informational sections are presented:
 
