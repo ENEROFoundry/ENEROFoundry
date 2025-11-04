@@ -4,7 +4,7 @@
 To provide transparency, the usage of AI tools and automation processes in the development process should be documented. 
 
 ## Purpose
-The usage of and opportunities provided by AI methods, especially LLMs, are fastly increasing. The development of reference ontologies can be supported by such tools, however, as being a community based consensus creation process [^1] , it can hardly be fully automated. Reference ontologies are intended to represent general true statements about the world, which contradicts the susceptibility of LLMs to hallucinations. To provide transparency, the usage of AI tools should be documented. 
+The usage of and opportunities provided by AI methods, especially LLMs, are fastly increasing. The development of reference ontologies can be supported by such tools, however, as being a community based consensus creation process[^1] , it can hardly be fully automated. Reference ontologies are intended to represent general true statements about the world, which contradicts the susceptibility of LLMs to hallucinations. To provide transparency, the usage of AI tools should be documented. 
 
 ## Implementation
 The usage of AI tools in the development process MUST be documented, see also the [documentation principle](9_documentation.md). 
