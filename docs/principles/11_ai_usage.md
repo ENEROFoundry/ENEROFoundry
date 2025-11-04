@@ -8,6 +8,7 @@ The usage of and opportunities provided by AI methods, especially LLMs, are fast
 
 ## Implementation
 The usage of AI tools in the development process MUST be documented, see also the [documentation principle](9_documentation.md). 
+
 - If it refers to generic tasks this SHOULD be documented externally.
 - If it refers to specific entities, this SHOULD be documented in situ per notation
 
