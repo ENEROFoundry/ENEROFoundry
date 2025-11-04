@@ -11,10 +11,10 @@ Documentation can serve multiple purposes: It can allow a potential user to easi
 ### In situ documentation on the overall ontology
 Each ontology MUST document the following information within the ontology:
 
-- Scope (see also principle on scope)
+- Scope (see also principle on [scope](6_scope.md))
 - Assumptions (if any)
-- Copyright/License (see also principle on openness)
-- Version (see also principle on versioning)
+- Copyright/License (see also principle on [openness](1_open.md))
+- Version (see also principle on [versioning](5_version.md))
 - Creator(s)
 - Maintainer(s) contact information
 - Location of external ontology documentation 
@@ -22,8 +22,8 @@ Each ontology MUST document the following information within the ontology:
 ### In situ documentation per notion
 Each ontology MUST document the following information within the ontology:
 
-- a unique label (see also principle on naming conventions)
-- a natural language definition (see also principle on textual definitions)
+- a unique label (see also principle on [naming conventions](7_naming.md))
+- a natural language definition (see also principle on [textual definitions](8_definitions.md))
 - additional sources used in the creation of particular notions or terms
 
 ### External documentation on the overall ontology
