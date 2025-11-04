@@ -46,4 +46,4 @@ Each ontology SHOULD document the following information, potentially outside the
 - Recommendation: publish external documentation with permanent identifiers
 
 ### Usage of AI
-Based on the principle about the usage of AI (ADD LINK), the support of AI methods and tools in the ontology development process MUST be documented.
+Based on the [principle about the usage of AI](11_ai_usage.md), the support of AI methods and tools in the ontology development process MUST be documented.
