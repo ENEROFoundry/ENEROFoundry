@@ -16,8 +16,10 @@ Out-of-scope terms should be placed within a separate module that can be importe
 
 ## Examples
 Examples how to describe and document the scope of an ontology:
+
 - Write a short abstract about the scope
 - Provide a list of sample competency questions
 
 Example how to collect generic scope-independent terms:
+
 - OBO creates the [COB ontology](https://github.com/OBOFoundry/COB) to provide a reusable resource for terms that are too broad for a specific domain ontology
