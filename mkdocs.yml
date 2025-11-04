@@ -81,6 +81,11 @@ nav:
       - Textual Definitions: principles/8_definitions.md
       - Identifier and Naming Conventions: principles/7_naming.md
       - Versioning: principles/5_version.md
+      - Foundational Ontology: principles/3_bfo.md
+      - Scope: principles/6_scope.md
+      - Documentation: principles/9_documentation.md
       - Usage of AI: principles/11_ai_usage.md
+
+
   - Ontologies: ontologies.md
   - Contact: contact.md
