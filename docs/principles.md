@@ -19,6 +19,7 @@ We consider the [OBO principles](https://obofoundry.org/principles/fp-000-summar
 - [Foundational Ontology](principles/3_bfo.md)
 - [Scope](principles/6_scope.md)
 - [Documentation](principles/9_documentation.md)
+- [AI usage](principles/11_ai_usage.md)
 
 On each principle page, several informational sections are presented:
 

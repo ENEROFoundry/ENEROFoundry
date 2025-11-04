@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Docs/Principles
 - Docs/Ontologies
 - Docs/Contact
+- Docs/Principles/11_ai_usage.md (principle on the usage of AI [(#44)](https://github.com/OEOFoundry/OEOFoundry/pull/44)
 
 ### Changed
 - Update principle on openness (no. 1) [(#17)](https://github.com/OEOFoundry/OEOFoundry/pull/17)
@@ -33,6 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update principle on foundational onology / BFO (no. 3) [(#42)](https://github.com/OEOFoundry/OEOFoundry/pull/42)
 - Update principle on scope (no. 6) [(#46)](https://github.com/OEOFoundry/OEOFoundry/pull/46)
 - Update principle on documentation (no. 9) [(#48)](https://github.com/OEOFoundry/OEOFoundry/pull/48)
+
 
 ### Removed
 
