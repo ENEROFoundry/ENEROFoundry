@@ -12,6 +12,6 @@ The usage of AI tools in the development process MUST be documented, see also th
 - If it refers to specific entities, this SHOULD be documented in situ per notation
 
 ## Examples
-- ChEBI provides each entity with a star rating. Entities that are created externally, including automation tools, receive two stars. Only entities that were human-curated by a ChEBI editor receive three stars, see also https://www.ebi.ac.uk/training/online/courses/chebi-the-online-chemical-dictionary-for-small-molecules/what-is-chebi/where-does-the-data-come-from/
+- ChEBI provides each entity with a star rating. Entities that are created externally, including automation tools, receive two stars. Only entities that were human-curated by a ChEBI editor receive three stars, see also [https://www.ebi.ac.uk/training/online/courses/chebi-the-online-chemical-dictionary-for-small-molecules/what-is-chebi/where-does-the-data-come-from/](https://www.ebi.ac.uk/training/online/courses/chebi-the-online-chemical-dictionary-for-small-molecules/what-is-chebi/where-does-the-data-come-from/)
 
 [^1]: F. Neuhaus, J. Hasitings: Ontology development is consensus creation, not (merely) representation, Applied Ontology. 2022;17(4):495-513. doi:[10.3233/AO-220273](https://doi.org/10.3233/AO-220273)
