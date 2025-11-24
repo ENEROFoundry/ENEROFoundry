@@ -16,7 +16,7 @@ Each ontology MUST document the following information within the ontology:
 - Copyright/License (see also principle on [openness](1_open.md))
 - Version (see also principle on [versioning](5_version.md))
 - Creator(s)
-- Maintainer(s) contact information
+- Maintainer(s) contact information (see also principle on [responsiveness](10_collaboration.md))
 - Location of external ontology documentation 
 
 ### In situ documentation per notion
