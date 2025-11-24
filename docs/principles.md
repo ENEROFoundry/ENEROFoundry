@@ -20,6 +20,7 @@ We consider the [OBO principles](https://obofoundry.org/principles/fp-000-summar
 - [Scope](principles/6_scope.md)
 - [Documentation](principles/9_documentation.md)
 - [AI usage](principles/11_ai_usage.md)
+- [Collaboration and Responsiveness](principles/10_collaboration.md)
 
 On each principle page, several informational sections are presented:
 
