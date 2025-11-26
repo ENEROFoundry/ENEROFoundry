@@ -34,6 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update principle on foundational onology / BFO (no. 3) [(#42)](https://github.com/OEOFoundry/OEOFoundry/pull/42)
 - Update principle on scope (no. 6) [(#46)](https://github.com/OEOFoundry/OEOFoundry/pull/46)
 - Update principle on documentation (no. 9) [(#48)](https://github.com/OEOFoundry/OEOFoundry/pull/48)
+- Update principle on collaboration (no. 10) [(#52)](https://github.com/OEOFoundry/OEOFoundry/pull/52)
 
 
 ### Removed
