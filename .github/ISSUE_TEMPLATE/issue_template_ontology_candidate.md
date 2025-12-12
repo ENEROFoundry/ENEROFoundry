@@ -2,8 +2,8 @@
 name: Ontology Candidate
 about: Submit an ontology for inclusion in the OEO Foundry
 title: "Add <my ontology> to OEO Foundry"
-labels: ["status: active :construction:", "part: community 🌍"]
-assignees: "@stap-m"
+labels: ["status: active 🚧", "part: community 🌍", "other: help wanted 🙋"]
+assignees: ""
 ---
 
 ## Ontology Overview
