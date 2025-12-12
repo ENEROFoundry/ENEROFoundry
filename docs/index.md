@@ -28,4 +28,4 @@ It serves as a central point of contact for all interested stakeholders.
 ▶ [Start here](https://terminology.tib.eu/ts/ontologies?collection=NFDI4Energy) to explore available ontologies and learn how to apply them in your work.
 
 ❓ **New to ontologies?**<br>
-▶ [Start here](https://terminology.tib.eu/ts/help) for an introduction to the basics and how ontologies can support your work.
+▶ [Start here](https://openenergyplatform.github.io/academy/courses/05_ontology/) for an introduction to the basics and how ontologies can support your work.
