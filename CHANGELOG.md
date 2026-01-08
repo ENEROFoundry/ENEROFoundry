@@ -35,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update principle on scope (no. 6) [(#46)](https://github.com/OEOFoundry/OEOFoundry/pull/46)
 - Update principle on documentation (no. 9) [(#48)](https://github.com/OEOFoundry/OEOFoundry/pull/48)
 - Update principle on collaboration (no. 10) [(#52)](https://github.com/OEOFoundry/OEOFoundry/pull/52)
+- Update link to the Academy [(#53)](https://github.com/OEOFoundry/OEOFoundry/pull/53)
 - Update ontology candidate template [(#54)](https://github.com/OEOFoundry/OEOFoundry/pull/54)
 
 ### Removed
