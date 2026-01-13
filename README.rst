@@ -3,7 +3,7 @@
   SPDX-FileCopyrightText: ENERO Foundry <https://github.com/ENEROFoundry/ENEROFoundry>
   SPDX-License-Identifier: MIT
 
-.. figure:: https://raw.githubusercontent.com/ENEROFoundry/ENEROFoundry/refs/heads/production/docs/img/Logo_ENEROFoundry.svg
+.. figure:: https://raw.githubusercontent.com/ENEROFoundry/ENEROFoundry/refs/heads/production/docs/img/Banner_ENEROFoundry.svg
     :align: left
     :target: https://github.com/ENEROFoundry/ENEROFoundry
     :alt: Banner ENERO Foundry
