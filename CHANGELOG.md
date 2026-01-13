@@ -24,7 +24,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Docs/Principles
 - Docs/Ontologies
 - Docs/Contact
-- Docs/Principles/11_ai_usage.md (principle on the usage of AI [(#44)](https://github.com/ENEROFoundry/ENEROFoundry/pull/44)
+- Docs/Principles/11_ai_usage.md (principle on the usage of AI) [(#44)](https://github.com/ENEROFoundry/ENEROFoundry/pull/44)
+- ENERO Foundry Banner and Logo [(#59)](https://github.com/OEOFoundry/OEOFoundry/pull/59)
 
 ### Changed
 - Update principle on openness (no. 1) [(#17)](https://github.com/ENEROFoundry/ENEROFoundry/pull/17)
@@ -37,6 +38,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update principle on collaboration (no. 10) [(#52)](https://github.com/ENEROFoundry/ENEROFoundry/pull/52)
 - Update link to the Academy [(#53)](https://github.com/ENEROFoundry/ENEROFoundry/pull/53)
 - Update ontology candidate template [(#54)](https://github.com/ENEROFoundry/ENEROFoundry/pull/54)
+- Rename Group and Repo [(#59)](https://github.com/OEOFoundry/OEOFoundry/pull/59)
+- Rename ENERO Foundry [(#59)](https://github.com/OEOFoundry/OEOFoundry/pull/59)
 
 ### Removed
 
