@@ -1,22 +1,22 @@
 # SPDX-FileCopyrightText: 2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut
-# SPDX-FileCopyrightText: OEO Foundry <https://github.com/OEOFoundry/OEOFoundry>
+# SPDX-FileCopyrightText: ENERO Foundry <https://github.com/ENEROFoundry/ENEROFoundry>
 # SPDX-License-Identifier: MIT
 
 # Project
-site_name: OEO Foundry
-site_url: https://github.com/OEOFoundry/OEOFoundry
-site_description: Website of the OEO Foundry
+site_name: ENERO Foundry
+site_url: https://github.com/ENEROFoundry/ENEROFoundry
+site_description: Website of the ENERO Foundry
 
 # Repository
-repo_name: OEOFoundry
-repo_url: https://github.com/OEOFoundry/OEOFoundry
+repo_name: ENEROFoundry
+repo_url: https://github.com/ENEROFoundry/ENEROFoundry
 docs_dir: docs
-copyright: OEO Foundry &copy; Reiner Lemoine Institut &copy; Universität Osnabrück &copy; OFFIS Institut für Informatik &copy; Carl von Ossietzky Universität Oldenburg | CC-BY-4.0
+copyright: ENERO Foundry &copy; Reiner Lemoine Institut &copy; Universität Osnabrück &copy; OFFIS Institut für Informatik &copy; Carl von Ossietzky Universität Oldenburg | CC-BY-4.0
 
 # Configuration
 theme:
   name: material
-  logo: img/OpenEnergyFamily_Logo_OEOFoundry.png
+  logo: img/OpenEnergyFamily_Logo_ENEROFoundry.png
   favicon: img/favicon_oeo-foundry.ico
   palette:
     # Palette toggle for dark mode
@@ -66,7 +66,7 @@ extra:
     provider: mike
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/OEOFoundry/OEOFoundry
+      link: https://github.com/ENEROFoundry/ENEROFoundry
 
 extra_css:
   - extra.css

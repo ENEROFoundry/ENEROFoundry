@@ -6,7 +6,7 @@ hide:
 
 ## Overview
 
-For the OEO Foundry we develop a shared set of principles to ensure that ontologies are logically well-formed, scientifically accurate, and interoperable.
+For the ENERO Foundry we develop a shared set of principles to ensure that ontologies are logically well-formed, scientifically accurate, and interoperable.
 Our commitment to FAIR and open science drives the development of reusable knowledge structures for the energy domain.
 We consider the [OBO principles](https://obofoundry.org/principles/fp-000-summary.html) and the [Technical principles from IOF](https://oagi.org/pages/technical-principles).
 
@@ -28,7 +28,7 @@ On each principle page, several informational sections are presented:
 > A brief description of what the principle means and how it should be implemented.
 >
 > ### Purpose
-> The rationale for including the principle in the OEO Foundry. Background information on why the principle was formulated the way it is.
+> The rationale for including the principle in the ENERO Foundry. Background information on why the principle was formulated the way it is.
 >
 > ### Implementation
 > A list of implementation guidelines for the principle. The following terminology is used:
@@ -46,5 +46,5 @@ On each principle page, several informational sections are presented:
 ## Discussion
 
 The definitions and details of the principles are currently being discussed in the 
-[GitHub Discussions](https://github.com/OEOFoundry/OEOFoundry/discussions/) of the OEO Foundry.<br>
+[GitHub Discussions](https://github.com/ENEROFoundry/ENEROFoundry/discussions/) of the ENERO Foundry.<br>
 We welcome your feedback and contributions.

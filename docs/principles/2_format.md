@@ -7,7 +7,7 @@ The ontology is made available in a common formal language in an accepted concre
 The purpose of this principle is to allow the maximum number of people to access and reuse an ontology.
 
 ## Implementation
-- OEO Foundry ontologies MUST be provided in at least one OWL product
+- ENERO Foundry ontologies MUST be provided in at least one OWL product
 - Developers are free to use whatever combination of technologies and formats is appropriate for development. However, the official OWL PURL for the ontology MUST resolve to a syntactically valid OWL file using the [RDF-XML](https://www.w3.org/TR/rdf-syntax-grammar/) syntax.
 - Developers MAY produce ontologies in other formats, e.g.:
     - Common Logic  

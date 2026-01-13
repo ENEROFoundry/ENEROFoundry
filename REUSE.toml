@@ -1,20 +1,20 @@
 # SPDX-FileCopyrightText: 2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut
-# SPDX-FileCopyrightText: OEO Foundry <https://github.com/OEOFoundry/OEOFoundry>
+# SPDX-FileCopyrightText: ENERO Foundry <https://github.com/ENEROFoundry/ENEROFoundry>
 # SPDX-License-Identifier: MIT
 
 
 version = 1
-SPDX-PackageName = "OEO Foundry"
+SPDX-PackageName = "ENERO Foundry"
 SPDX-PackageSupplier = "Ludwig Hülk <https://github.com/Ludee>"
-SPDX-PackageDownloadLocation = "https://github.com/OEOFoundry/OEOFoundry"
+SPDX-PackageDownloadLocation = "https://github.com/ENEROFoundry/ENEROFoundry"
 SPDX-PackageComment = "The code of this repository is licensed under the MIT License (MIT)."
 
 [[annotations]]
 path = "docs/**"
 precedence = "override"
-SPDX-FileCopyrightText = ["2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut", "OEO Foundry <https://github.com/OEOFoundry/OEOFoundry>"]
+SPDX-FileCopyrightText = ["2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut", "ENERO Foundry <https://github.com/ENEROFoundry/ENEROFoundry>"]
 SPDX-License-Identifier = "CC-BY-4.0"
-SPDX-FileComment = "Copyright: OEO Foundry © Reiner Lemoine Institut © Universität Osnabrück © OFFIS Institut für Informatik © Carl von Ossietzky Universität Oldenburg licensed CC-BY-4.0"
+SPDX-FileComment = "Copyright: ENERO Foundry © Reiner Lemoine Institut © Universität Osnabrück © OFFIS Institut für Informatik © Carl von Ossietzky Universität Oldenburg licensed CC-BY-4.0"
 
 [[annotations]]
 path = "docs/img/partner"
@@ -31,11 +31,11 @@ SPDX-License-Identifier = "NONE"
 [[annotations]]
 path = ".github/pull_request_template.md"
 precedence = "override"
-SPDX-FileCopyrightText = ["2023 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut", "OEO Foundry <https://github.com/OEOFoundry/OEOFoundry>"]
+SPDX-FileCopyrightText = ["2023 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut", "ENERO Foundry <https://github.com/ENEROFoundry/ENEROFoundry>"]
 SPDX-License-Identifier = "CC0-1.0"
 
 [[annotations]]
 path = ".github/ISSUE_TEMPLATE/*.md"
 precedence = "override"
-SPDX-FileCopyrightText = ["2023 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut", "OEO Foundry <https://github.com/OEOFoundry/OEOFoundry>"]
+SPDX-FileCopyrightText = ["2023 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut", "ENERO Foundry <https://github.com/ENEROFoundry/ENEROFoundry>"]
 SPDX-License-Identifier = "CC0-1.0"

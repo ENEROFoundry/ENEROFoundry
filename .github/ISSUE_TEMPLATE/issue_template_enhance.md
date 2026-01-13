@@ -16,4 +16,4 @@ Describe possible ideas for solution and evaluate advantages and disadvantages.
 
 ## Workflow checklist
 
-- [ ] I am aware of the workflow in [CONTRIBUTING.md](https://github.com/OEOFoundry/OEOFoundry/blob/production/CONTRIBUTING.md)
+- [ ] I am aware of the workflow in [CONTRIBUTING.md](https://github.com/ENEROFoundry/ENEROFoundry/blob/production/CONTRIBUTING.md)

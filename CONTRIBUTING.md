@@ -1,6 +1,6 @@
 <!--
 SPDX-FileCopyrightText: 2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut
-SPDX-FileCopyrightText: OEO Foundry <https://github.com/OEOFoundry/OEOFoundry>
+SPDX-FileCopyrightText: ENERO Foundry <https://github.com/ENEROFoundry/ENEROFoundry>
 SPDX-License-Identifier: MIT
 -->
 
@@ -13,7 +13,7 @@ SPDX-License-Identifier: MIT
 
 ## Types of interaction
 
-This repository is following the [Contributor Covenant Code of Conduct](https://github.com/OEOFoundry/OEOFoundry/blob/main/CODE_OF_CONDUCT.md). <br>
+This repository is following the [Contributor Covenant Code of Conduct](https://github.com/ENEROFoundry/ENEROFoundry/blob/main/CODE_OF_CONDUCT.md). <br>
 Please be self-reflective and always maintain a good culture of discussion and active participation.
 
 ### A. Use
@@ -26,7 +26,7 @@ Indicators are `Watch`, `Fork` and `Starred` of the repository.
 
 You can give ideas, hints or report bugs in issues, in PR, at meetings or other channels.
 This is no development but can be considered a notable contribution.
-If you wish, add your name and details to [`📝CITATION.cff`](https://github.com/OEOFoundry/OEOFoundry/blob/production/CITATION.cff).
+If you wish, add your name and details to [`📝CITATION.cff`](https://github.com/ENEROFoundry/ENEROFoundry/blob/production/CITATION.cff).
 
 ### C. Contribute and Review
 
@@ -113,7 +113,7 @@ Examples of commit message: `Add function with some method #42` or `Update docum
 
 - Follow the GitHub guide [creating-a-pull-request](https://help.github.com/en/articles/creating-a-pull-request)
 - The PR should be directed: `base: production` <- `compare: develop`
-- Use the [Pull Request Template](https://github.com/OEOFoundry/OEOFoundry/blob/production/.github/pull_request_template.md)
+- Use the [Pull Request Template](https://github.com/ENEROFoundry/ENEROFoundry/blob/production/.github/pull_request_template.md)
 - Check that all tests pass
 - Assign a reviewer and get in contact
 
