@@ -1,5 +1,5 @@
 # SPDX-FileCopyrightText: 2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut
-# SPDX-FileCopyrightText: OEO Foundry <https://github.com/OEOFoundry/OEOFoundry>
+# SPDX-FileCopyrightText: ENERO Foundry <https://github.com/ENEROFoundry/ENEROFoundry>
 # SPDX-License-Identifier: CC0-1.0
 
 cff-version: 1.2.0
@@ -20,10 +20,10 @@ authors:
     alias: "amanda-wein"
     affiliation: "OFFIS"
     orcid: "https://orcid.org/0009-0009-2960-3474"
-title: "OEO Foundry"
+title: "ENERO Foundry"
 type: software
 license: MIT
 version: 0.0.0
 doi: null
 date-released: 2025-03-14
-url: "https://github.com/OEOFoundry/OEOFoundry"
+url: "https://github.com/ENEROFoundry/ENEROFoundry"

@@ -1,18 +1,18 @@
 ..
   SPDX-FileCopyrightText: 2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut
-  SPDX-FileCopyrightText: OEO Foundry <https://github.com/OEOFoundry/OEOFoundry>
+  SPDX-FileCopyrightText: ENERO Foundry <https://github.com/ENEROFoundry/ENEROFoundry>
   SPDX-License-Identifier: MIT
 
-.. figure:: https://raw.githubusercontent.com/OEOFoundry/OEOFoundry/refs/heads/production/docs/img/Logo_OEOFoundry.svg
+.. figure:: https://raw.githubusercontent.com/ENEROFoundry/ENEROFoundry/refs/heads/production/docs/img/Banner_ENEROFoundry.svg
     :align: left
-    :target: https://github.com/OEOFoundry/OEOFoundry
-    :alt: Logo OEO Foundry
+    :target: https://github.com/ENEROFoundry/ENEROFoundry
+    :alt: Banner ENERO Foundry
 
-==============================
-Open Energy Ontologies Foundry
-==============================
+===========================================
+Energy Related Reference Ontologies Foundry
+===========================================
 
-**Organisation and website for the OEO Foundry.**
+**Organisation and website for the ENERO Foundry.**
 
 .. list-table::
    :widths: auto
@@ -33,7 +33,7 @@ Open Energy Ontologies Foundry
 
 Introduction
 ============
-| The OEO Foundry is an initiative for developing interoperable ontologies in the energy domain.
+| The ENERO Foundry is an initiative for developing interoperable ontologies in the energy domain.
 | It follows shared principles to ensure high-quality and FAIR ontologies.
 | The mission is to develop a family of interoperable ontologies that are both logically well-formed and scientifically accurate.
 
@@ -42,7 +42,7 @@ Documentation
 | The website is created with Markdown using `MkDocs <https://www.mkdocs.org/>`_.
 | All files are stored in the ``docs`` folder of the repository.
 | A **GitHub Actions** deploys the ``production`` branch on a **GitHub Page**.
-| The documentation page is: `oeofoundry.github.io/OEOFoundry/ <https://oeofoundry.github.io/OEOFoundry/>`_
+| The documentation page is: `enerofoundry.github.io/ENEROFoundry/ <https://enerofoundry.github.io/ENEROFoundry/>`_
 
 Collaboration
 =============
@@ -50,64 +50,64 @@ Collaboration
 
 Contributors:
 
-.. figure:: https://contrib.rocks/image?repo=OEOFoundry/OEOFoundry
+.. figure:: https://contrib.rocks/image?repo=ENEROFoundry/ENEROFoundry
     :align: left
-    :target: https://github.com/OEOFoundry/OEOFoundry/graphs/contributors
+    :target: https://github.com/ENEROFoundry/ENEROFoundry/graphs/contributors
     :alt: [contrib.rocks](https://contrib.rocks)
 
 License and Citation
 ====================
 | The code of this repository is licensed under the **MIT License** (MIT).
-| Authorship and license for each file are documented using `REUSE <https://api.reuse.software/info/github.com/OEOFoundry/OEOFoundry>`_ specification.
-| See `LICENSE.txt <https://github.com/OEOFoundry/OEOFoundry/blob/production/LICENSE.txt>`_ for rights and obligations.
-| See the *Cite this repository* function or `CITATION.cff <https://github.com/OEOFoundry/OEOFoundry/blob/production/CITATION.cff>`_ for citation of this repository.
-| Copyright: `OEO Foundry <https://github.com/OEOFoundry/OEOFoundry/>`_ © `Reiner Lemoine Institut <https://reiner-lemoine-institut.de/>`_ | `MIT <LICENSE.txt>`_
+| Authorship and license for each file are documented using `REUSE <https://api.reuse.software/info/github.com/ENEROFoundry/ENEROFoundry>`_ specification.
+| See `LICENSE.txt <https://github.com/ENEROFoundry/ENEROFoundry/blob/production/LICENSE.txt>`_ for rights and obligations.
+| See the *Cite this repository* function or `CITATION.cff <https://github.com/ENEROFoundry/ENEROFoundry/blob/production/CITATION.cff>`_ for citation of this repository.
+| Copyright: `ENERO Foundry <https://github.com/ENEROFoundry/ENEROFoundry/>`_ © `Reiner Lemoine Institut <https://reiner-lemoine-institut.de/>`_ | `MIT <LICENSE.txt>`_
 
 
-.. |badge_license| image:: https://img.shields.io/github/license/OEOFoundry/OEOFoundry
-    :target: https://github.com/OEOFoundry/OEOFoundry/blob/production/LICENSE.txt
+.. |badge_license| image:: https://img.shields.io/github/license/ENEROFoundry/ENEROFoundry
+    :target: https://github.com/ENEROFoundry/ENEROFoundry/blob/production/LICENSE.txt
     :alt: License
 
-.. |badge_reuse| image:: https://api.reuse.software/badge/github.com/OEOFoundry/OEOFoundry
-    :target: https://api.reuse.software/info/github.com/OEOFoundry/OEOFoundry
+.. |badge_reuse| image:: https://api.reuse.software/badge/github.com/ENEROFoundry/ENEROFoundry
+    :target: https://api.reuse.software/info/github.com/ENEROFoundry/ENEROFoundry
     :alt: REUSE
 
-.. |badge_documentation| image:: https://img.shields.io/github/actions/workflow/status/OEOFoundry/OEOFoundry/documentation.yml?branch=production&label=documentation
-    :target: https://oeofoundry.github.io/OEOFoundry/
+.. |badge_documentation| image:: https://img.shields.io/github/actions/workflow/status/ENEROFoundry/ENEROFoundry/documentation.yml?branch=production&label=documentation
+    :target: https://enerofoundry.github.io/ENEROFoundry/
     :alt: Documentation
 
 .. |badge_mkdocs| image:: https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=flat&logo=MaterialForMkDocs&logoColor=white&color=grey
     :target: https://squidfunk.github.io/mkdocs-material/
     :alt: MkDocs
 
-.. |badge_issue_open| image:: https://img.shields.io/github/issues-raw/OEOFoundry/OEOFoundry
-    :target: https://github.com/OEOFoundry/OEOFoundry/issues
+.. |badge_issue_open| image:: https://img.shields.io/github/issues-raw/ENEROFoundry/ENEROFoundry
+    :target: https://github.com/ENEROFoundry/ENEROFoundry/issues
     :alt: Open Issues
 
-.. |badge_issue_closes| image:: https://img.shields.io/github/issues-closed-raw/OEOFoundry/OEOFoundry
-    :target: https://github.com/OEOFoundry/OEOFoundry/issues?q=is%3Aissue+is%3Aclosed
+.. |badge_issue_closes| image:: https://img.shields.io/github/issues-closed-raw/ENEROFoundry/ENEROFoundry
+    :target: https://github.com/ENEROFoundry/ENEROFoundry/issues?q=is%3Aissue+is%3Aclosed
     :alt: Closed Issues
 
-.. |badge_pr_open| image:: https://img.shields.io/github/issues-pr-raw/OEOFoundry/OEOFoundry
-    :target: https://github.com/OEOFoundry/OEOFoundry/pulls
+.. |badge_pr_open| image:: https://img.shields.io/github/issues-pr-raw/ENEROFoundry/ENEROFoundry
+    :target: https://github.com/ENEROFoundry/ENEROFoundry/pulls
     :alt: Open PR
 
-.. |badge_pr_closes| image:: https://img.shields.io/github/issues-pr-closed-raw/OEOFoundry/OEOFoundry
-    :target: https://github.com/OEOFoundry/OEOFoundry/pulls?q=is%3Apr+is%3Aclosed
+.. |badge_pr_closes| image:: https://img.shields.io/github/issues-pr-closed-raw/ENEROFoundry/ENEROFoundry
+    :target: https://github.com/ENEROFoundry/ENEROFoundry/pulls?q=is%3Apr+is%3Aclosed
     :alt: Closed PR
 
 .. |badge_contributions| image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
-    :target: https://github.com/OEOFoundry/OEOFoundry/blob/production/CONTRIBUTING.md
+    :target: https://github.com/ENEROFoundry/ENEROFoundry/blob/production/CONTRIBUTING.md
     :alt: Contributions
 
-.. |badge_contributors| image:: https://img.shields.io/github/contributors/OEOFoundry/OEOFoundry
-    :target: https://github.com/OEOFoundry/OEOFoundry/graphs/contributors
+.. |badge_contributors| image:: https://img.shields.io/github/contributors/ENEROFoundry/ENEROFoundry
+    :target: https://github.com/ENEROFoundry/ENEROFoundry/graphs/contributors
     :alt: Contributors
 
-.. |badge_discussions| image:: https://img.shields.io/github/discussions/OEOFoundry/OEOFoundry?link=https%3A%2F%2Fgithub.com%2FOEOFoundry%2FOEOFoundry%2Fdiscussions
-    :target: https://github.com/OEOFoundry/OEOFoundry/discussions
+.. |badge_discussions| image:: https://img.shields.io/github/discussions/ENEROFoundry/ENEROFoundry?link=https%3A%2F%2Fgithub.com%2FENEROFoundry%2FENEROFoundry%2Fdiscussions
+    :target: https://github.com/ENEROFoundry/ENEROFoundry/discussions
     :alt: Discussions
 
-.. |badge_repo_counts| image:: https://hits.sh/github.com/OEOFoundry/OEOFoundry.svg
-    :target: https://hits.sh/github.com/OEOFoundry/OEOFoundry
+.. |badge_repo_counts| image:: https://hits.sh/github.com/ENEROFoundry/ENEROFoundry.svg
+    :target: https://hits.sh/github.com/ENEROFoundry/ENEROFoundry
     :alt: Hits

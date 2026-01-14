@@ -7,18 +7,24 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="OpenEnergyFamily_Logo_ENEROFoundry.svg"
+   sodipodi:docname="Banner_ENEROFoundry.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg3908"
    version="1.1"
-   viewBox="0 0 199.99999 200"
+   viewBox="0 0 999.9999 200"
    height="200mm"
-   width="200mm"
-   inkscape:export-filename="B:\git\github\OpenEnergyPlatform\organisation\logo\OpenEnergyFamily_Logo_ENEROFoundry.png"
-   inkscape:export-xdpi="500"
-   inkscape:export-ydpi="500">
+   width="1000mm"
+   inkscape:export-filename="B:\git\github\ENEROFoundry\ENEROFoundry\docs\img\Banner_ENEROFoundry.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs3902">
+    <rect
+       x="1166.0315"
+       y="520.34955"
+       width="324.34839"
+       height="43.870705"
+       id="rect857" />
     <clipPath
        id="clipPath16-1"
        clipPathUnits="userSpaceOnUse">
@@ -37,26 +43,38 @@
          id="path18-7-8"
          d="M 0,1.8311e-4 H 567 V 567.00018 H 0 Z" />
     </clipPath>
+    <rect
+       id="rect857-7"
+       height="24.311113"
+       width="291.74124"
+       y="520.34955"
+       x="1166.0315" />
+    <rect
+       id="rect870"
+       height="59.081085"
+       width="156.8336"
+       y="520.34955"
+       x="1166.0315" />
   </defs>
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:guide-bbox="true"
      showguides="true"
      fit-margin-bottom="2"
-     fit-margin-right="2"
+     fit-margin-right="300"
      fit-margin-left="2"
      fit-margin-top="2"
      inkscape:window-maximized="1"
      inkscape:window-y="-11"
-     inkscape:window-x="2869"
-     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-height="974"
      inkscape:window-width="1920"
      showgrid="false"
      inkscape:current-layer="g3221"
      inkscape:document-units="mm"
-     inkscape:cy="113.12086"
-     inkscape:cx="470.85447"
-     inkscape:zoom="0.30517031"
+     inkscape:cy="741.12082"
+     inkscape:cx="1726.3443"
+     inkscape:zoom="0.25"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -69,12 +87,12 @@
        inkscape:locked="false"
        id="guide859"
        orientation="-1,0"
-       position="99.999995,455.30129" />
+       position="101.17424,456.47176" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide861"
        orientation="0,1"
-       position="428.70745,99.999997"
+       position="429.88169,101.17046"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
@@ -86,12 +104,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(170.53217,180.4797)"
+     transform="translate(171.7064,181.65026)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Ebene 1">
@@ -110,11 +128,11 @@
     <g
        id="g3221"
        transform="matrix(2.2828583,0,0,2.2828607,-2605.5316,-1338.8826)"
-       style="display:inline;stroke:#387000;stroke-width:1.02874;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#387000">
+       style="display:inline;fill:#387000;stroke:#387000;stroke-width:1.02874;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <g
          id="g3217"
-         transform="matrix(0.30204193,0,0,0.30204193,1183.2896,599.91586)"
-         style="stroke:#387000;stroke-width:3.40595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#387000">
+         transform="matrix(0.30204193,0,0,0.30204193,1183.0667,599.41551)"
+         style="fill:#387000;stroke:#387000;stroke-width:3.40595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
         <path
            inkscape:connector-curvature="0"
            id="path3195"
@@ -184,6 +202,34 @@
          width="3.1021514"
          id="rect893"
          style="fill:#387000;stroke:#387000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         xml:space="preserve"
+         id="text855"
+         style="font-size:38.6333px;line-height:1;font-family:sans-serif;white-space:pre;shape-inside:url(#rect857);"
+         transform="translate(2.8203749,-1.5669646)"><tspan
+           x="1166.0312"
+           y="549.70186"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.6333px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold'">ENERO Foundry</tspan></tspan></text>
+      <text
+         style="font-size:15.4533px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect857-7);display:inline;fill:#700070;fill-opacity:1;stroke:none;stroke-width:1.02874;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         id="text855-1"
+         xml:space="preserve"
+         transform="translate(3.1250228,45.390187)"><tspan
+           x="1166.0312"
+           y="534.02216"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.4533px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold';fill:#700070;fill-opacity:1;stroke:none">Energy Related Reference Ontologies</tspan></tspan></text>
+      <circle
+         id="path894"
+         style="fill:#700070;stroke:#000000;stroke-width:0.119231"
+         cx="1273.115"
+         cy="534.64648"
+         r="0" />
+      <circle
+         id="path896"
+         style="fill:#700070;stroke:#000000;stroke-width:0.119231"
+         cx="1272.3555"
+         cy="534.64648"
+         r="0" />
     </g>
   </g>
 </svg>

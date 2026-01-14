@@ -1,6 +1,6 @@
 <!--
 # SPDX-FileCopyrightText: 2025 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut
-# SPDX-FileCopyrightText: OEO Foundry <https://github.com/OEOFoundry/OEOFoundry>
+# SPDX-FileCopyrightText: ENERO Foundry <https://github.com/ENEROFoundry/ENEROFoundry>
 # SPDX-License-Identifier: MIT
 -->
 
@@ -14,7 +14,7 @@ Your contributions help us maintain the security and integrity of our project.
 
 ### How to Report a Vulnerability
 
-To report a security vulnerability, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/OEOFoundry/OEOFoundry/security/advisories/new) tab in this repository.
+To report a security vulnerability, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/ENEROFoundry/ENEROFoundry/security/advisories/new) tab in this repository.
 
 ### What to Expect
 
