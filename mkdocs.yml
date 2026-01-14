@@ -17,7 +17,7 @@ copyright: ENERO Foundry &copy; Reiner Lemoine Institut &copy; Universität Osna
 theme:
   name: material
   logo: img/OpenEnergyFamily_Logo_ENEROFoundry.png
-  favicon: img/favicon_oeo-foundry.ico
+  favicon: img/Favicon_oeo-foundry.ico
   palette:
     # Palette toggle for dark mode
     - scheme: slate

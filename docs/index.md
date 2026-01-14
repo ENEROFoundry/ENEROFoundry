@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-<img src="img/Logo_ENEROFoundry.png" alt="ENERO Foundry Logo" width="800"/>
+<img src="img/Banner_ENEROFoundry.png" alt="ENERO Foundry Banner" width="1000"/>
 
 
 # Open Energy Ontologies Foundry
