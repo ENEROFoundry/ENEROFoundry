@@ -7,7 +7,7 @@ hide:
 <img src="img/Banner_ENEROFoundry.png" alt="ENERO Foundry Banner" width="1000"/>
 
 
-# Open Energy Ontologies Foundry
+# Energy Related Reference Ontologies Foundry
 
 The ENERO Foundry is an initiative for developing interoperable ontologies in the energy domain.<br>
 It follows shared principles to ensure high-quality and FAIR (Findable, Accessible, Interoperable, and Reusable) ontologies.<br>
