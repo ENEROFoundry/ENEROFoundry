@@ -8,7 +8,7 @@ hide:
 IIf you have any questions or are interested in contributing to the development of the ENERO Foundry, 
 please contact us at:
 
-📧 [oeo-foundry (at) lists.rl-institut.de](mailto:oeo-foundry(at)lists.rl-institut.de)
+📧 [enero-foundry (at) lists.rl-institut.de](mailto:enero-foundry(at)lists.rl-institut.de)
 
 
 ## Mailing List
