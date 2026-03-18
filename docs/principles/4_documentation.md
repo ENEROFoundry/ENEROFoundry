@@ -1,4 +1,4 @@
-# Ontology Documentation
+# 4. Ontology Documentation
 
 ## Summary
 This principles provides a collection of required and recommended documentation about the ontology and its items.

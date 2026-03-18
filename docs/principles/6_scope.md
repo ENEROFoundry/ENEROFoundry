@@ -1,4 +1,4 @@
-# Principle on the ontology scope
+# 6. Ontology Scope
 
 ## Summary
 The scope of an ontology is the extent of the domain or subject matter it intends to cover. The ontology must have a clearly specified scope and content that adheres to that scope.

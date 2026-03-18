@@ -1,4 +1,4 @@
-# Common Format
+# 2. Common Format
 
 ## Summary
 The ontology is made available in a common formal language in an accepted concrete syntax.
