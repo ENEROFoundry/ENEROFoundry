@@ -40,6 +40,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update ontology candidate template [(#54)](https://github.com/ENEROFoundry/ENEROFoundry/pull/54)
 - Rename Group and Repo [(#59)](https://github.com/OEOFoundry/OEOFoundry/pull/59)
 - Rename ENERO Foundry [(#59)](https://github.com/OEOFoundry/OEOFoundry/pull/59)
+- Update principle numbers [(#65)](https://github.com/ENEROFoundry/ENEROFoundry/pull/65)
+- Enhance principle Versioning with Publication [(#65)](https://github.com/ENEROFoundry/ENEROFoundry/pull/65)
 
 ### Removed
 
