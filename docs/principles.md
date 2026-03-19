@@ -13,7 +13,7 @@ We consider the [OBO principles](https://obofoundry.org/principles/fp-000-summar
 ## Principles
 - [Openness](principles/1_open.md)
 - [Common Format](principles/2_format.md)
-- [Publication and Versioning](principles/3_publication_versioning.md)
+- [Publication and Versioning](principles/3_release_versioning.md)
 - [Documentation](principles/4_documentation.md)
 - [Collaboration and Responsiveness](principles/5_collaboration.md)
 - [Scope](principles/6_scope.md)
