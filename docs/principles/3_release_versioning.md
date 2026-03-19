@@ -3,7 +3,7 @@
 ## Summary
 A versioning and release workflow is mandatory.
 It must document changes made, the date of publication, and the version number.
-The workflow itself must also be documented and publicly accessible.
+The workflow itself should also be documented and publicly accessible.
 
 ## Purpose
 Ontologies change throughout their lifecycle, and users need to be aware when and
@@ -15,33 +15,28 @@ accessible to all users and downstream systems.
 ## Implementation
 
 ### Versioning
-- ENERO Foundry ontologies MUST use a versioning workflow that publishes new
-  ontology versions and documents:
-    - changes made in each version (e.g. as a changelog)
-    - dates of version publication
-    - version numbers
-- Developers MAY use either a semantic versioning format (SemVer) or a calendar
-  versioning format (CalVer). Guidance on the differences between these two formats
-  can be found at https://glinteco.com/en/post/understanding-semver-vs-calver-making-the-right-choice-for-your-project/
-- The annotation `owl:versionInfo` MUST be used to identify the version number.
-- The annotation `owl:versionIRI` MUST be used to identify the versioned resource.
-- The versioning workflow for each ontology MUST be documented
-  and publicly available.
+ENERO Foundry ontologies MUST use a versioning workflow that publishes new ontology versions and documents:
+    - Changes made in each version (e.g. as a CHANGELOG.md)
+    - Date of version publication
+    - Version number
+
+Developers MAY use either a semantic versioning format (SemVer) or a calendar versioning format (CalVer). 
+ENERO Foundry recommends using SemVer. 
+Guidance on the differences between these two formats can be found at [glinteco](https://glinteco.com/en/post/understanding-semver-vs-calver-making-the-right-choice-for-your-project/)
+Ontologies MUST have the license annotation properties:
+    - The annotation `owl:versionInfo` to identify the version number.
+    - The annotation `owl:versionIRI` identify the versioned resource.
+
+The versioning workflow for each ontology SHOULD be documented and publicly available.
 
 ### Release
-Ontologies SHOULD be published in at least one of the following locations,
-with a persistent, stable IRI:
-- A **version control platform** (e.g. GitHub, GitLab) — recommended as the
-  primary development and release channel, as it supports changelogs, release
-  tagging, and issue tracking.
-- An **ontology repository or terminology service** (e.g. TIB Terminology Service,
-  OLS, ) — recommended for discoverability within the broader ontology community.
-- A **project or institute website** — acceptable as a secondary publication point,
-  but must not be the sole location, as institutional URLs are less stable over time.
+ENERO Foundry ontologies MUST be made available with a stable and persistent identifier (IRI).<br>
+The published IRI of an ontology MUST remain stable across versions.
 
-Regardless of location, the published IRI of an ontology MUST remain stable
-across versions. Version-specific IRIs (via `owl:versionIRI`) MAY change between
-releases, but the ontology's primary IRI MUST always resolve to the latest version.
+Ontologies SHOULD be made available in a repository on a version control platform (e.g. GitHub, GitLab).
+
+Ontologies SHOULD be made available in an ontology repository or terminology service (e.g. TIB TS, OLS).<br>
+This is recommended for discoverability within the broader ontology community.
 
 ### Publication Frequency
 No fixed release schedule is mandated, as the appropriate frequency will vary
