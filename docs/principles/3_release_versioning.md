@@ -14,21 +14,6 @@ accessible to all users and downstream systems.
 
 ## Implementation
 
-### Versioning
-ENERO Foundry ontologies MUST use a versioning workflow that publishes new ontology versions and documents:
-    - Changes made in each version (e.g. as a CHANGELOG.md)
-    - Date of version publication
-    - Version number
-
-Developers MAY use either a semantic versioning format (SemVer) or a calendar versioning format (CalVer). 
-ENERO Foundry recommends using SemVer. 
-Guidance on the differences between these two formats can be found at [glinteco](https://glinteco.com/en/post/understanding-semver-vs-calver-making-the-right-choice-for-your-project/)
-Ontologies MUST have the license annotation properties:
-    - The annotation `owl:versionInfo` to identify the version number.
-    - The annotation `owl:versionIRI` identify the versioned resource.
-
-The versioning workflow for each ontology SHOULD be documented and publicly available.
-
 ### Release
 ENERO Foundry ontologies MUST be made available with a stable and persistent identifier (IRI).<br>
 The published IRI of an ontology MUST remain stable across versions.
@@ -37,6 +22,21 @@ Ontologies SHOULD be made available in a repository on a version control platfor
 
 Ontologies SHOULD be made available in an ontology repository or terminology service (e.g. TIB TS, OLS).<br>
 This is recommended for discoverability within the broader ontology community.
+
+### Versioning
+ENERO Foundry ontologies MUST use a versioning workflow that publishes new ontology versions and documents:
+- Changes made in each version (e.g. as a CHANGELOG.md)
+- Date of version publication
+- Version number
+
+Developers MAY use either a semantic versioning format (SemVer) or a calendar versioning format (CalVer). 
+ENERO Foundry recommends using SemVer. 
+Guidance on the differences between these two formats can be found at [glinteco](https://glinteco.com/en/post/understanding-semver-vs-calver-making-the-right-choice-for-your-project/)
+Ontologies MUST have the license annotation properties:
+- The annotation `owl:versionInfo` to identify the version number.
+- The annotation `owl:versionIRI` identify the versioned resource.
+
+The versioning workflow for each ontology SHOULD be documented and publicly available.
 
 ### Publication Frequency
 No fixed release schedule is mandated, as the appropriate frequency will vary
