@@ -20,7 +20,7 @@ We welcome your feedback and contributions.
 ## Principles
 1. [Openness](principles/1_open.md)
 1. [Common Format](principles/2_format.md)
-1. [Publication and Versioning](principles/3_release_versioning.md)
+1. [Release and Versioning](principles/3_release_versioning.md)
 1. [Documentation](principles/4_documentation.md)
 1. [Collaboration and Responsiveness](principles/5_collaboration.md)
 1. [Scope](principles/6_scope.md)
