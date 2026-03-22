@@ -1,4 +1,4 @@
-# Collaboration and Responsiveness
+# 5. Collaboration and Responsiveness
 
 ## Summary
 The collaboration between ENERO Foundry ontology teams is essential for its success. When terms from various ontologies are reused, it is expected that questions, change requests and discussions will arise, from both external ontology developers and the user community. To collaborate and address these requests, responsiveness is needed from all involved parties.

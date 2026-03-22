@@ -1,7 +1,7 @@
-# Ontology Documentation
+# 4. Ontology Documentation
 
 ## Summary
-This principles provides a collection of required and recommended documentation about the ontology and its items.
+These principles provide a collection of required and recommended documentation about the ontology and its items.
 Parts of the documentation should be embedded within the ontology ('in situ'), other parts could be located outside the ontology ('external'). The documentation considers both the overall ontology and the documentation per notion, i.e. of single ontology item.
 
 ## Purpose

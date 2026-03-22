@@ -1,4 +1,4 @@
-# Identifier and Naming Conventions
+# 8. Identifier and Naming Conventions
 
 ## Summary
 Each entity in an ontology should contain an identifier (IRI/CURIE) and a label. The identifier is used to identify the entity anywhere it is cited/used. The label is used as its main name/title.

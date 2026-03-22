@@ -1,4 +1,4 @@
-# Openness
+# 1. Openness
 ## Summary
 The ontology must be openly available to be used by all without any constraints other than <br>
 (a) its origin must be acknowledged, and <br>

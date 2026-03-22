@@ -1,4 +1,4 @@
-# Usage of AI Methods
+# 10. Usage of AI
 
 ## Summary
 To provide transparency, the usage of AI tools and automation processes in the development process should be documented. 
