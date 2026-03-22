@@ -20,7 +20,7 @@ The published IRI of an ontology MUST remain stable across versions.
 
 Ontologies SHOULD be made available in a repository on a version control platform (e.g. GitHub, GitLab).
 
-Ontologies SHOULD be made available in an ontology repository or terminology service (e.g. TIB TS, OLS).<br>
+Ontologies SHOULD be made available in an ontology repository or terminology service (e.g. TIB TS, technoportal).<br>
 This is recommended for discoverability within the broader ontology community.
 
 ### Versioning
