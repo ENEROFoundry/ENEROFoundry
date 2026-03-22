@@ -45,7 +45,6 @@ However, ontology developers SHOULD:
 - Communicate the expected maintenance status and release cadence in the
   ontology's documentation.
 - Signal clearly if an ontology is in active development, maintenance-only mode,
-  or no longer maintained.
 
 Publication frequency is considered an indicator of active maintenance and is
 implicitly linked to the **Collaboration and Responsiveness** principle: long
