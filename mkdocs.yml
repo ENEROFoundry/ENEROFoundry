@@ -88,4 +88,6 @@ nav:
       - Textual Definitions: principles/9_definitions.md
       - Usage of AI: principles/10_ai_usage.md
   - Ontologies: ontologies.md
+      - OEO: ontologies/oeo.md
+      - CEPO: ontologies/depo.md
   - Contact: contact.md
