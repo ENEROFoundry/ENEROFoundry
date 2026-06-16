@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ENERO Foundry Banner and Logo [(#59)](https://github.com/OEOFoundry/OEOFoundry/pull/59)
 - Assessment for OEO to ENERO Foundry ontologies [(#67)](https://github.com/OEOFoundry/OEOFoundry/pull/67)
 - Assembly board minutes [(#67)](https://github.com/OEOFoundry/OEOFoundry/pull/67)
+- Assessment for CEPO to ENERO Foundry ontologies [(#69)](https://github.com/OEOFoundry/OEOFoundry/pull/69)
 
 ### Changed
 - Update principle on openness (no. 1) [(#17)](https://github.com/ENEROFoundry/ENEROFoundry/pull/17)
