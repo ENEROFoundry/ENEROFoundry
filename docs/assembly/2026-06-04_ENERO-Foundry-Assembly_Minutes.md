@@ -11,7 +11,7 @@
 
 ## 1. Compliance of OEO and CEPO with the Principles
 
-Both ontologies were reviewed against the Principles and found to be compliant.
+Both ontologies were reviewed against the ENERO principles and found to be compliant.
 The results have been documented in the NFDI4Energy Conference Paper.
 
 **OEO**
