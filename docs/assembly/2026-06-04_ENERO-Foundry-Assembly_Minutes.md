@@ -43,4 +43,4 @@ Outreach will be carried out via the newsletter (enero-info@lists.rl-institut.de
 
 ## 5. Next Assembly
 
-The next Assembly is planned for December. A specific date will be scheduled at a later point.
+The next Assembly is planned for December 2026. A specific date will be scheduled at a later point.
