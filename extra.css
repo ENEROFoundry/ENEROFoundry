@@ -1,0 +1,28 @@
+/*
+SPDX-FileCopyrightText: 2026 Ludwig Hülk <https://github.com/Ludee> © Reiner Lemoine Institut
+SPDX-FileCopyrightText: ENERO Foundry <https://github.com/ENEROFoundry/ENEROFoundry>
+SPDX-License-Identifier: MIT
+*/
+
+/* Light mode */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #700070;
+  --md-primary-fg-color--light: #9c3d9c;
+  --md-primary-fg-color--dark:  #4d004d;
+  --md-typeset-a-color:         #700070;
+}
+
+/* Dark mode */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #700070;
+  --md-primary-fg-color--light: #b366b3;
+  --md-primary-fg-color--dark:  #4d004d;
+  --md-typeset-a-color:         #d68fd6;
+}
+
+/* Compact tables: opt in per table with <div class="compact-table" markdown> */
+.md-typeset .compact-table table:not([class]) th,
+.md-typeset .compact-table table:not([class]) td {
+  padding: 0.4em 0.5em;
+  font-size: 0.75rem;
+}
