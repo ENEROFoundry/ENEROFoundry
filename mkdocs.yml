@@ -4,7 +4,7 @@
 
 # Project
 site_name: ENERO Foundry
-site_url: https://github.com/ENEROFoundry/ENEROFoundry
+site_url: https://enerofoundry.github.io/ENEROFoundry/
 site_description: Website of the ENERO Foundry
 
 # Repository
@@ -34,8 +34,8 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
     - navigation.indexes
+    - navigation.expand
     - navigation.path
     - navigation.tracking
     - navigation.top
@@ -62,8 +62,6 @@ plugins:
 # Customization
 extra:
   generator: false
-  version:
-    provider: mike
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ENEROFoundry/ENEROFoundry
@@ -76,7 +74,7 @@ nav:
   - Home: index.md
   - Community: community.md
   - Principles:
-      - Overview: principles.md
+      - principles/index.md
       - Openness: principles/1_open.md
       - Common Format: principles/2_format.md
       - Publication and Versioning: principles/3_release_versioning.md

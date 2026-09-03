@@ -4,11 +4,11 @@ Assessment of the [Open Energy Ontology](https://github.com/OpenEnergyPlatform/o
 
 ## Ontology Overview
 
-**Ontology Name:** Open Energy Ontology
-**Abbreviation:** OEO
-**Homepage:** https://github.com/OpenEnergyPlatform/ontology
-**Primary Repository:** https://github.com/OpenEnergyPlatform/ontology
-**Main Contact / Maintainer:** Mirjam Stappel (UOS) and Ludwig Hülk (RLI)
+**Ontology Name:** Open Energy Ontology<br>
+**Abbreviation:** OEO<br>
+**Homepage:** https://github.com/OpenEnergyPlatform/ontology<br>
+**Primary Repository:** https://github.com/OpenEnergyPlatform/ontology<br>
+**Main Contact / Maintainer:** Mirjam Stappel (UOS) and Ludwig Hülk (RLI)<br>
 
 ## Scope and Purpose
 

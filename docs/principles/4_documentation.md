@@ -14,16 +14,16 @@ Each ontology MUST document the following information within the ontology:
 - Scope (see also principle on [scope](6_scope.md))
 - Assumptions (if any)
 - Copyright/License (see also principle on [openness](1_open.md))
-- Version (see also principle on [versioning](5_version.md))
+- Version (see also principle on [versioning](3_release_versioning.md))
 - Creator(s)
-- Maintainer(s) contact information (see also principle on [responsiveness](10_collaboration.md))
+- Maintainer(s) contact information (see also principle on [responsiveness](5_collaboration.md))
 - Location of external ontology documentation 
 
 ### In situ documentation per notion
 Each ontology MUST document the following information within the ontology:
 
-- a unique label (see also principle on [naming conventions](7_naming.md))
-- a natural language definition (see also principle on [textual definitions](8_definitions.md))
+- a unique label (see also principle on [naming conventions](8_naming.md))
+- a natural language definition (see also principle on [textual definitions](9_definitions.md))
 - additional sources used in the creation of particular notions or terms
 
 ### External documentation on the overall ontology
@@ -46,4 +46,4 @@ Each ontology SHOULD document the following information, potentially outside the
 - Recommendation: publish external documentation with permanent identifiers
 
 ### Usage of AI
-Based on the [principle about the usage of AI](11_ai_usage.md), the support of AI methods and tools in the ontology development process MUST be documented.
+Based on the [principle about the usage of AI](10_ai_usage.md), the support of AI methods and tools in the ontology development process MUST be documented.

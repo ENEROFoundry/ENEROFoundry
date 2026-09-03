@@ -18,16 +18,16 @@ We welcome your feedback and contributions.
 
 
 ## Principles
-1. [Openness](principles/1_open.md)
-1. [Common Format](principles/2_format.md)
-1. [Release and Versioning](principles/3_release_versioning.md)
-1. [Documentation](principles/4_documentation.md)
-1. [Collaboration and Responsiveness](principles/5_collaboration.md)
-1. [Scope](principles/6_scope.md)
-1. [Foundational Ontology](principles/7_foundation.md)
-1. [Identifier and Naming Conventions](principles/8_naming.md)
-1. [Textual Definitions](principles/9_definitions.md)
-1. [Usage of AI](principles/10_ai_usage.md)
+1. [Openness](1_open.md)
+2. [Common Format](2_format.md)
+3. [Release and Versioning](3_release_versioning.md)
+4. [Documentation](4_documentation.md)
+5. [Collaboration and Responsiveness](5_collaboration.md)
+6. [Scope](6_scope.md)
+7. [Foundational Ontology](7_foundation.md)
+8. [Identifier and Naming Conventions](8_naming.md)
+9. [Textual Definitions](9_definitions.md)
+10. [Usage of AI](10_ai_usage.md)
 
 
 On each principle page, several informational sections are presented:

@@ -5,7 +5,7 @@ hide:
 
 # Ontologies
 
-The ENERO Foundry Assembly evaluate energy-related ontologies for compliance with the [ENERO Principles](principles/).
+The ENERO Foundry Assembly evaluate energy-related ontologies for compliance with the [ENERO Principles](../principles/index.md).
 Each evaluation reviews an ontology against the principles and records whether each one is
 fully met, partially met, not yet implemented, or not yet evaluated.
 
@@ -20,10 +20,10 @@ fully met, partially met, not yet implemented, or not yet evaluated.
 
 ## Results Overview
 
-| Ontology                                                     | [P1](principles/1_open/) | [P2](principles/2_format/) | [P3](principles/3_release_versioning/) | [P4](principles/4_documentation/) | [P5](principles/5_collaboration/) | [P6](principles/6_scope/) | [P7](principles/7_foundation/) | [P8](principles/8_naming/) | [P9](principles/9_definitions/) | [P10](principles/10_ai_usage/) |
-|--------------------------------------------------------------|:------------------------:|:--------------------------:|:--------------------------------------:|:---------------------------------:|:---------------------------------:|:-------------------------:|:------------------------------:|:--------------------------:|:-------------------------------:|:------------------------------:|
-| [Open Energy Ontology (OEO)](ontologies/oeo)                 |            🟢            |             🟢             |                   🟢                   |                🟢                 |                🟢                 |            🟡             |               🟢               |             🟢             |               🟢                |               ⚫                |
-| [Climate and Energy Policy Ontology (CEPO)](ontologies/cepo) |            🟢            |             🟢             |                   🟢                   |                🟡                 |                🟢                 |            🟢             |               🟢               |             🟢             |               🟢                |               ⚫                |
+| Ontology                                             | [P1](../principles/1_open.md) | [P2](../principles/2_format.md) | [P3](../principles/3_release_versioning.md) | [P4](../principles/4_documentation.md) | [P5](../principles/5_collaboration.md) | [P6](../principles/6_scope.md) | [P7](../principles/7_foundation.md) | [P8](../principles/8_naming.md) | [P9](../principles/9_definitions.md) | [P10](../principles/10_ai_usage.md) |
+|------------------------------------------------------|:-----------------------------:|:-------------------------------:|:-------------------------------------------:|:--------------------------------------:|:--------------------------------------:|:------------------------------:|:-----------------------------------:|:-------------------------------:|:------------------------------------:|:-----------------------------------:|
+| [Open Energy Ontology (OEO)](oeo.md)                 |              🟢               |               🟢                |                     🟢                      |                   🟢                   |                   🟢                   |               🟡               |                 🟢                  |               🟢                |                  🟢                  |                  ⚫                  |
+| [Climate and Energy Policy Ontology (CEPO)](cepo.md) |              🟢               |               🟢                |                     🟢                      |                   🟡                   |                   🟢                   |               🟢               |                 🟢                  |               🟢                |                  🟢                  |                  ⚫                  |
 
 ## Looking for specific ontologies?
 
