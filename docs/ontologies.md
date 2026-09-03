@@ -6,8 +6,8 @@ hide:
 # Ontologies
 
 The ENERO Foundry Assembly evaluate energy-related ontologies for compliance with the [ENERO Principles](principles/).
-Each evaluation reviews an ontology against all ten principles and records whether each one is
-fully met, partially met, or not yet implemented.
+Each evaluation reviews an ontology against the principles and records whether each one is
+fully met, partially met, not yet implemented, or not yet evaluated.
 
 ## Evaluation status legend
 

@@ -30,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Assembly board minutes [(#68)](https://github.com/OEOFoundry/OEOFoundry/pull/68)
 - Assessment for CEPO to ENERO Foundry ontologies [(#69)](https://github.com/OEOFoundry/OEOFoundry/pull/69)
 
+
 ### Changed
 - Update principle on openness (no. 1) [(#17)](https://github.com/ENEROFoundry/ENEROFoundry/pull/17)
 - Update principle on common format (no. 2) [(#20)](https://github.com/ENEROFoundry/ENEROFoundry/pull/20)
